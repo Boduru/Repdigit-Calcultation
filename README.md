@@ -1,2 +1,2 @@
 # Rep-Units-Calcultation
-Python script that shows wich method to find a Resp Digit number is the fastest
+Python script that shows which method to find a Rep Digit number is the fastest
