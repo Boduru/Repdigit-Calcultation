@@ -1,4 +1,4 @@
-# Rep-Digits-Calcultation
+# Repeated-Digits-Calcultation
 Python script that shows which method to find a Repeated Digit number is the fastest.
 
 ## What is a repdigit ?
