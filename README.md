@@ -15,7 +15,7 @@ There are multiple technics to identify a repdigit number:
 - Change number into a list of digits, and check if the first digit is equal to the second and so on
 - Change the number into a set, and check if the set is only 1 long
 
-## Formula Method
+## Formula
 $$9 \times x \over (\lfloor(\log_{10}(x) + 1)\rfloor)^{10} - 1)$$
 
 If the above formula returns a whole number, thus, the entered number is a repdigit.
