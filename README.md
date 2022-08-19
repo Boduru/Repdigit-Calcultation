@@ -1,5 +1,5 @@
 # Repeated Digits Calcultation
-Python script that shows which method to find a Repeated Digit number is the fastest.
+Python script that shows which method is the fastest to find a Repeated Digit number.
 
 ## What is a repdigit ?
 It is a number only composed by the same digits.
